@@ -5,7 +5,7 @@ Este repositório contém um projeto prático desenvolvido para consolidar os co
 ## 🎓 Certificação Relacionada
 O desenvolvimento deste código serviu como laboratório prático para o curso concluído na plataforma **DIO (Digital Innovation One)**:
 
-![Certificado de Interfaces e Lambdas](https://raw.githubusercontent.com/pauloartur-dev/sistema-pagamentos/main/certificado.interfaces.jpg)
+![Certificado de Interfaces e Lambdas](certificado.interfaces.png)
 
 > **Curso:** Dominando Interfaces e Lambda em Java  
 > **Instituição:** DIO  
